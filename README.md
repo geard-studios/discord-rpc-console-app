@@ -22,6 +22,8 @@ First, go [here](https://github.com/geard-dev/discord-rpc-console-app/releases/t
 
 Now, run ` main.exe `.
 
+IMPORTANT: I am aware that some browsers and operating systems block the download because they say it could harm the device, its just a false alarm because the file is not signed. If you dont trust me, you can run it through your antivirus, [VirusTotal](https://www.virustotal.com/gui/home/upload), view the source code, or build it yourself
+
 ### Downloading from GitHub
 
 First, you clone the git repository by doing
