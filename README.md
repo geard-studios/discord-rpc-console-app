@@ -1,2 +1,0 @@
-# discord rpc console app
- 
