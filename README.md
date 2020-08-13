@@ -65,4 +65,5 @@ When its done, go to the output folder, there you will find the main.exe file
 ## Using:
 
 [PyPresence](https://github.com/qwertyquerty/pypresence)
+
 [Auto-PY-to-EXE](https://github.com/brentvollebregt/auto-py-to-exe)
